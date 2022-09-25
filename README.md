@@ -1,4 +1,2 @@
 # zdyzc.github.io
-yyds
-
-huanying
+欢迎大家！
